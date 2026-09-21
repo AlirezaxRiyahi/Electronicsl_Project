@@ -19,7 +19,7 @@ a 100 Ω load.
 | Load Resistance (RL) | 100 Ω |
 | VBE | 0.7 ± 0.1 V |
 | Output Voltage Swing | ≥ 1 V |
-| Voltage Gain | |Av| ≥ 20 |
+| Voltage Gain | Av ≥ 20 |
 | Input Resistance | Ri ≥ 1 kΩ |
 | Maximum Frequency | 5 kHz |
 | THD | ≤ 5% |
@@ -30,7 +30,7 @@ The amplifier consists of multiple BJT stages designed to achieve
 the required voltage gain while maintaining the required output swing,
 input resistance, and linearity.
 
-![Circuit Schematic](Schematics/amplifier.png)
+![Circuit Schematic](Schematic\amplifier.png)
 
 ## Simulation
 
